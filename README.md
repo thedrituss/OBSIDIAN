@@ -1,6 +1,5 @@
-# OBSIDIAN
+# APUNTES CLASE 1ºASIR
 
 
-Primer commit
 
-Commit como thedrituss
+
