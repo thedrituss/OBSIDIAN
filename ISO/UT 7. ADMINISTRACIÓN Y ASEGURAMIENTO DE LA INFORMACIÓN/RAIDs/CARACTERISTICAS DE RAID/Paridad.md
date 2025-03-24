@@ -1,0 +1,1 @@
+Con la paridad, los datos o información de las unidades del servidor son redundantes, lo que otorga mayor tolerancia a fallos de algunas unidades

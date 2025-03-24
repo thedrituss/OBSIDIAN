@@ -1,0 +1,1 @@
+Es la distribución de los datos o información entre las distintas unidades del servidor que permite conformar un solo sistema de almacenamiento. No ofrece tolerancia a fallos

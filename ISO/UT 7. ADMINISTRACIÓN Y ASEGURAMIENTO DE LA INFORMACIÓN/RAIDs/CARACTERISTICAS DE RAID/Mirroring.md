@@ -1,0 +1,1 @@
+Los datos son duplicados en dos unidades de manera sincronizada, permite disponibilidad de datos ante fallos, ofrece tolreancia a fallos.

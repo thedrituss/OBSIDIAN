@@ -1,2 +1,2 @@
-1. [[ÍNDICE - Protocolo IP|ÍNDICE - Protocolo IP]]
-2. [[ÍNDICE - Enrutamiento IP|ÍNDICE - Enrutamiento IP]]
+1. [[ÍNDICE - Protocolo IP]]
+2. [[ÍNDICE - Enrutamiento IP]]
