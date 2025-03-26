@@ -1,4 +1,4 @@
 
 `/proc`
 
-- Virtual [[file systems]] providing info about the system processes.
+- Virtual [[Sistemas de Archivos]] providing info about the system processes.

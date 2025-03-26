@@ -1,6 +1,6 @@
 `/dev` (Virtual Device Interface)
 
-- A virtual [[file systems]] that represents hardware devices as files.
+- A virtual [[Sistemas de Archivos]] that represents hardware devices as files.
 - Allows de OS to interact with hardware devices using standard file operations.
 
 - Common Device Files:

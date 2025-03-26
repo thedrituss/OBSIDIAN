@@ -1,4 +1,4 @@
 
 `/sys`
 
-- Virtual [[file systems]] providing info about the system's hardware.
+- Virtual [[Sistemas de Archivos]] providing info about the system's hardware.

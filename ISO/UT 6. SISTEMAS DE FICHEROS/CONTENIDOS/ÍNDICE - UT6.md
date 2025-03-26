@@ -1,7 +1,7 @@
 
-- Operaciones sobre [[file systems]]
+- Operaciones sobre [[Sistemas de Archivos]]
 
-- Tipos de [[file systems]]
+- Tipos de [[Sistemas de Archivos]]
 
 - Comando [[ATTRIB]]
 
@@ -11,7 +11,7 @@
 
 - El fichero /etc/[[fstab]]
 
-- Chequeo de [[file systems]].
+- Chequeo de [[Sistemas de Archivos]].
 
 - Cifrado en almacenamiento
 

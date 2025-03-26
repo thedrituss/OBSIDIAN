@@ -1,7 +1,7 @@
 
 `/`
 
-- Top-level directory for entire [[file systems]].
+- Top-level directory for entire [[Sistemas de Archivos]].
 - All of the other directories in [[FHS]] are in the [[root directory]].
 	- They are organized hierarchically under the [[root directory]].
 	- Subdirectories branch out, and more under them, etc.
