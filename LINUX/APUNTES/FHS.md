@@ -1,0 +1,20 @@
+
+- Filesystem Hierarchy Standard 
+- [[FHS]] defines Linux directory structure and what is each folder commonly user for.
+- Key directories
+	- `/`[[root directory]] 
+	- /[[bin]], /[[sbin]]
+	- /[[etc]]
+	- /[[home]]
+	- /[[var]]
+	- /[[usr]]
+	- /[[opt]]
+	- /[[dev]]
+	- /[[tmp]]
+- Other important directories:
+	- /[[boot]]
+	- /[[lib]]
+	- /[[mnt]]
+	- /[[proc]]
+	- /[[srv]] 
+	- /[[sys]]
